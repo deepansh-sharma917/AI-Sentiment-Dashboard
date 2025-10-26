@@ -1,0 +1,17 @@
+# Virtual environment
+NLP_Project/
+
+# Dataset folder
+data/
+
+# Python cache inside app folder
+app/__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+kaggle.json
+
+# OS files
+.DS_Store
+Thumbs.db

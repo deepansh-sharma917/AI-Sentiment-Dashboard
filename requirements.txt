@@ -1,0 +1,24 @@
+# Streamlit frontend
+streamlit==1.50.0
+streamlit-chat==0.1.1
+
+# Data handling
+pandas==2.3.3
+numpy==2.3.4
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Text processing / ML
+scikit-learn==1.7.2
+vaderSentiment==3.3.2
+transformers==4.57.1
+torch==2.9.0
+
+# Database
+SQLAlchemy==2.0.44
+psycopg2==2.9.11
+python-dotenv==1.1.1
+kaggle==-1.7.4.5
+
