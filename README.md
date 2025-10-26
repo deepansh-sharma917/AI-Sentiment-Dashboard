@@ -16,6 +16,3 @@ A Streamlit-based interactive dashboard for analyzing IMDB movie reviews with AI
 - **Interactive Chatbot**: Ask questions about the reviews dataset using a lightweight local LLM (`distilgpt2`).
 
 ---
-
-## 📂 Folder Structure
-
