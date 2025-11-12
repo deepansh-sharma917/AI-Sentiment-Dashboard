@@ -20,5 +20,5 @@ torch==2.9.0
 SQLAlchemy==2.0.44
 psycopg2==2.9.11
 python-dotenv==1.1.1
-kaggle==-1.7.4.5
+kaggle==1.7.4.5
 
